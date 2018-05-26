@@ -1,0 +1,36 @@
+2018-05-19 18:07:57,132 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 18:07:57,132 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 18:08:00,162 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 18:08:02,871 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 18:08:02,888 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 18:08:02,904 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 18:08:22,949 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == kw
+
+2018-05-19 18:08:23,169 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-19 18:08:38,242 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == kw
+
+2018-05-19 18:08:38,298 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-19 18:08:40,336 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 18:08:40,337 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 18:08:41,641 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 18:08:42,291 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 18:08:42,310 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 18:08:42,326 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 18:08:47,424 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-19 18:08:47,506 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-19 18:08:49,545 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 18:08:49,546 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 18:08:50,879 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 18:08:51,338 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 18:08:51,354 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 18:08:51,368 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 18:08:53,589 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 18:08:54,009 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 18:08:54,177 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-19 18:08:54,597 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 18:08:54,734 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-19 18:08:55,454 - BasePage - INFO - The element '  ' was clicked.
+2018-05-19 18:09:01,148 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-19 18:09:01,160 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development
+2018-05-19 18:09:01,192 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development
+2018-05-19 18:09:01,245 - BasePage - INFO - Closing and quit the browser.

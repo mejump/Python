@@ -1,0 +1,7 @@
+2018-05-17 22:18:36,465 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:18:36,468 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:18:37,769 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:18:38,230 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:18:38,247 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:18:38,262 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:18:38,277 - BasePage - INFO - Current page title is 百度一下，你就知道

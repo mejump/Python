@@ -1,0 +1,24 @@
+2018-05-20 18:11:49,687 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 18:11:49,687 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 18:11:52,086 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 18:11:52,337 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 18:11:52,350 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 18:11:52,362 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 18:11:54,552 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 18:11:54,981 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:11:55,132 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 18:11:55,546 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2018-05-20 18:11:55,699 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 18:11:56,202 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 18:12:01,570 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 18:12:01,760 - BasePage - INFO - Had find the element ' ≥ˆ¥Ì¿≤: √‹¬Î ‰»Î¥ÌŒÛ ... ' successful by xpath via value: //*[@id="msg"] 
+2018-05-20 18:12:01,979 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 18:12:02,337 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:12:02,469 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 18:12:02,817 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:12:02,945 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 18:12:03,287 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 18:12:08,604 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 18:12:23,893 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with xpath == //*[@id="msg"]
+
+2018-05-20 18:12:24,079 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

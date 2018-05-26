@@ -1,0 +1,22 @@
+2018-05-20 17:45:40,555 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 17:45:40,555 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 17:45:42,007 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 17:45:42,436 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 17:45:42,449 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 17:45:42,475 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 17:45:44,763 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 17:45:45,133 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 17:45:45,269 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 17:45:45,648 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2018-05-20 17:45:45,778 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 17:45:46,189 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 17:45:51,420 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 17:45:51,433 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-20 17:45:51,589 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 17:45:51,914 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 17:45:52,051 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 17:45:52,401 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 17:45:52,541 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 17:45:52,860 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 17:45:58,080 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 17:45:58,092 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development

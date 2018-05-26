@@ -1,0 +1,16 @@
+2018-05-17 22:54:40,134 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:54:40,135 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:54:41,391 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:54:41,835 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:54:41,890 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:54:41,890 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:54:42,033 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:54:50,784 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:54:50,784 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:54:52,043 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:54:52,914 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:54:52,931 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:54:52,945 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:54:53,091 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:54:53,380 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-05-17 22:54:53,508 - BasePage - INFO - Had find the element '  ' successful by id via value: su 

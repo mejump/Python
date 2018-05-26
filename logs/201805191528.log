@@ -1,0 +1,8 @@
+2018-05-19 15:28:00,481 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:28:00,481 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:28:01,761 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:28:01,993 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:28:02,006 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:28:02,026 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:28:07,211 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-19 15:28:07,638 - BasePage - INFO - Had type ' admin ' in inputBox

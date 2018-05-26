@@ -1,0 +1,14 @@
+2018-05-20 18:15:55,476 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 18:15:55,476 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 18:15:56,926 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 18:15:57,366 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 18:15:57,383 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 18:15:57,396 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 18:15:59,569 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 18:15:59,995 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:16:00,142 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 18:16:00,520 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2018-05-20 18:16:00,646 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 18:16:00,970 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 18:16:06,158 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 18:16:06,313 - BasePage - INFO - Had find the element ' ≥ˆ¥Ì¿≤: √‹¬Î ‰»Î¥ÌŒÛ ... ' successful by xpath via value: //*[@id="msg"] 

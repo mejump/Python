@@ -1,0 +1,24 @@
+2018-05-17 22:45:16,531 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:45:16,532 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:45:17,866 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:45:18,088 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:45:18,101 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:45:18,114 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:45:28,239 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == kw
+
+2018-05-17 22:45:31,643 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:45:31,643 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:45:32,900 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:45:33,117 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:45:33,130 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:45:33,143 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:45:37,188 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:45:46,598 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:45:46,598 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:45:47,861 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:45:49,331 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:45:49,346 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:45:49,361 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:45:49,536 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:45:49,844 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-05-17 22:45:49,958 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 

@@ -1,0 +1,15 @@
+2018-05-19 15:14:25,232 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:14:25,232 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:14:26,523 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:14:26,947 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:14:26,959 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:14:26,973 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:14:31,999 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-19 15:14:51,796 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:14:51,796 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:14:53,067 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:14:53,300 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:14:53,321 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:14:53,343 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:14:58,365 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-19 15:14:58,432 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

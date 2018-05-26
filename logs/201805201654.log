@@ -1,0 +1,24 @@
+2018-05-20 16:54:33,750 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 16:54:33,751 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 16:54:38,243 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 16:54:38,716 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 16:54:38,730 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 16:54:38,753 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 16:54:40,957 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 16:54:41,334 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 16:54:41,501 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 16:54:41,958 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2018-05-20 16:54:42,096 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 16:54:42,403 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 16:54:47,492 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 16:54:47,504 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-20 16:54:47,529 - BasePage - INFO - Current page title is AgileOne - Welcome to Login
+2018-05-20 16:54:47,662 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 16:54:47,993 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 16:54:48,114 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 16:54:48,446 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 16:54:48,580 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 16:54:48,868 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 16:54:53,956 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 16:54:53,968 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development
+2018-05-20 16:54:53,993 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development

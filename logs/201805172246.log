@@ -1,0 +1,4 @@
+2018-05-17 22:46:55,165 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:46:55,165 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:46:56,439 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:47:07,742 - BrowserEngine - INFO - Open url: http://www.baidu.com

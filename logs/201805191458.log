@@ -1,0 +1,6 @@
+2018-05-19 14:58:29,309 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 14:58:29,309 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 14:58:30,600 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 14:58:31,039 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 14:58:31,053 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 14:58:31,072 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

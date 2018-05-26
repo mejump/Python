@@ -1,0 +1,7 @@
+2018-05-16 21:18:26,866 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 21:18:26,866 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-16 21:18:28,122 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 21:18:33,796 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-05-16 21:18:33,798 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 21:18:33,849 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-16 21:18:33,895 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 

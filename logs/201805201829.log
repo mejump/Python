@@ -1,0 +1,25 @@
+2018-05-20 18:29:58,702 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 18:29:58,703 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 18:30:00,048 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 18:30:00,474 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 18:30:00,488 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 18:30:00,491 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 18:30:02,677 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 18:30:03,051 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:30:03,205 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 18:30:03,601 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2018-05-20 18:30:03,751 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 18:30:04,077 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 18:30:09,282 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 18:30:09,424 - BasePage - INFO - Had find the element ' ≥ˆ¥Ì¿≤: √‹¬Î ‰»Î¥ÌŒÛ ... ' successful by xpath via value: //*[@id="msg"] 
+2018-05-20 18:30:09,571 - BasePage - INFO - Get the element ' ≥ˆ¥Ì¿≤: √‹¬Î ‰»Î¥ÌŒÛ ... ' text.
+2018-05-20 18:30:09,698 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 18:30:10,033 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:30:10,160 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 18:30:10,485 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 18:30:10,630 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 18:30:10,941 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 18:30:16,193 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 18:30:31,282 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with xpath == //*[@id="msg"]
+
+2018-05-20 18:30:31,392 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

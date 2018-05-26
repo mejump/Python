@@ -1,0 +1,7 @@
+2018-05-19 15:07:06,056 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:07:06,058 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:07:07,294 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:07:07,537 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:07:07,556 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:07:07,557 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:07:12,572 - BasePage - INFO - Current page title is AgileOne - Welcome to Login

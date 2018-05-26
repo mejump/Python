@@ -1,0 +1,9 @@
+2018-05-19 15:26:05,432 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:26:05,432 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:26:06,837 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:26:07,265 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:26:07,285 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:26:07,298 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:26:27,614 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == usename
+
+2018-05-19 15:26:27,700 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

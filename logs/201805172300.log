@@ -1,0 +1,8 @@
+2018-05-17 23:00:14,948 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 23:00:14,948 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 23:00:16,195 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 23:00:16,642 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 23:00:16,655 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 23:00:16,668 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 23:00:21,829 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 23:00:21,981 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 

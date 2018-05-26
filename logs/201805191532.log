@@ -1,0 +1,39 @@
+2018-05-19 15:32:11,269 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:32:11,269 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:32:12,574 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:32:12,808 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:32:12,825 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:32:12,837 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:32:50,321 - BrowserEngine - INFO - You had select IE browser.
+2018-05-19 15:32:50,321 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-19 15:32:51,624 - BrowserEngine - INFO - Starting IE browser.
+2018-05-19 15:32:52,055 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-19 15:32:52,072 - BrowserEngine - INFO - Maximize the current window.
+2018-05-19 15:32:52,096 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-19 15:32:57,284 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:32:57,712 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:32:57,868 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:32:58,199 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:32:58,332 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:32:58,692 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:32:58,806 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:32:59,141 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:32:59,275 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:32:59,577 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:32:59,718 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:00,017 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:00,165 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:00,473 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:00,595 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:00,902 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:01,046 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:01,362 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:01,480 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:01,784 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:01,934 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:02,259 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:02,417 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:02,707 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:02,823 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-19 15:33:03,157 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-19 15:33:03,267 - BasePage - INFO - Had find the element '  ' successful by id via value: username 

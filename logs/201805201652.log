@@ -1,0 +1,18 @@
+2018-05-20 16:52:49,432 - BrowserEngine - INFO - You had select IE browser.
+2018-05-20 16:52:49,432 - BrowserEngine - INFO - The test server url is: http://localhost/Agileone12/
+2018-05-20 16:52:53,975 - BrowserEngine - INFO - Starting IE browser.
+2018-05-20 16:52:54,396 - BrowserEngine - INFO - Open url: http://localhost/Agileone12/
+2018-05-20 16:52:54,409 - BrowserEngine - INFO - Maximize the current window.
+2018-05-20 16:52:54,422 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-20 16:52:56,608 - BasePage - INFO - Had find the element '  ' successful by id via value: username 
+2018-05-20 16:52:56,982 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 16:52:57,130 - BasePage - INFO - Had find the element '  ' successful by id via value: password 
+2018-05-20 16:52:57,536 - BasePage - INFO - Had type ' admin ' in inputBox
+2018-05-20 16:52:57,669 - BasePage - INFO - Had find the element '  ' successful by id via value: login 
+2018-05-20 16:52:57,983 - BasePage - INFO - The element '  ' was clicked.
+2018-05-20 16:53:03,085 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-20 16:53:03,097 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development
+2018-05-20 16:53:03,122 - BasePage - INFO - Current page title is AgileOne - Power to Agile Development
+2018-05-20 16:53:18,210 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == username
+
+2018-05-20 16:53:18,305 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

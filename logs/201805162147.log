@@ -1,0 +1,6 @@
+2018-05-16 21:47:35,009 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-16 21:47:35,009 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-16 21:47:46,254 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-16 21:47:52,749 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-05-16 21:47:52,768 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 21:47:52,782 - BasePage - INFO - Current page title is 百度一下，你就知道

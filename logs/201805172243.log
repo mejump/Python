@@ -1,0 +1,16 @@
+2018-05-17 22:43:15,664 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:43:15,664 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:43:16,955 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:43:17,603 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:43:17,619 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:43:17,635 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:43:17,802 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:43:17,958 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:43:28,797 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:43:28,798 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:43:30,129 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:43:30,573 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:43:30,587 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:43:30,601 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:43:30,758 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:43:30,921 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 

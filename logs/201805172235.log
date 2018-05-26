@@ -1,0 +1,24 @@
+2018-05-17 22:35:22,500 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:35:22,500 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:35:23,745 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:35:23,979 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:35:23,994 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:35:24,009 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:35:34,068 - BasePage - ERROR - NoSuchElementException: Message: Unable to find element with id == kw
+
+2018-05-17 22:35:34,386 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-17 22:35:34,651 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:35:43,335 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:35:43,335 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:35:44,559 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:35:47,037 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:35:47,051 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:35:47,066 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:35:47,214 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:35:47,510 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-05-17 22:35:47,644 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-05-17 22:35:50,049 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:35:50,679 - BasePage - INFO - Had type ' python ' in inputBox
+2018-05-17 22:35:51,066 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-05-17 22:35:52,096 - BasePage - INFO - The element '  ' was clicked.
+2018-05-17 22:35:57,444 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

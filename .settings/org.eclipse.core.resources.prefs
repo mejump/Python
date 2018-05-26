@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//framework/base_page.py=utf-8
+encoding//framework/browser_engine.py=utf-8
+encoding//framework/excelreader.py=utf-8
+encoding//framework/logger.py=utf-8
+encoding//pageobjects/agileone_login.py=utf-8
+encoding//pageobjects/baidu_homepage.py=utf-8
+encoding//pageobjects/baidu_news_home.py=utf-8
+encoding//testsuites/test_baidu_search.py=utf-8
+encoding//testsuites/test_login.py=utf-8

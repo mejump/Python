@@ -1,0 +1,11 @@
+2018-05-16 22:21:15,807 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 22:21:15,808 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-16 22:21:22,767 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 22:21:24,961 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-05-16 22:21:24,963 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 22:21:27,440 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 22:21:27,440 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-05-16 22:21:32,832 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 22:21:36,635 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-05-16 22:21:36,639 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 22:21:36,646 - BasePage - INFO - Current page title is 百度一下，你就知道

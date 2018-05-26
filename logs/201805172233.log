@@ -1,0 +1,23 @@
+2018-05-17 22:33:06,943 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:33:06,943 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:33:08,173 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:33:08,635 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:33:08,652 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:33:08,669 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:33:08,825 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:33:08,990 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:33:43,187 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:33:43,188 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:33:44,400 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:33:44,857 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:33:44,870 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:33:44,882 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:33:45,025 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:33:45,185 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-05-17 22:33:57,408 - BrowserEngine - INFO - You had select IE browser.
+2018-05-17 22:33:57,409 - BrowserEngine - INFO - The test server url is: http://www.baidu.com
+2018-05-17 22:33:58,652 - BrowserEngine - INFO - Starting IE browser.
+2018-05-17 22:33:59,095 - BrowserEngine - INFO - Open url: http://www.baidu.com
+2018-05-17 22:33:59,111 - BrowserEngine - INFO - Maximize the current window.
+2018-05-17 22:33:59,126 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-17 22:34:04,141 - BasePage - INFO - Current page title is 百度一下，你就知道
